@@ -24,6 +24,12 @@
     </license>
   </licenses>
 
+   <scm>
+    <url>scm:git:git@github.com:jtgeiger/utils.git</url>
+    <connection>scm:git:git@github.com:jtgeiger/utils.git</connection>
+    <developerConnection>scm:git:git@github.com:jtgeiger/utils.git</developerConnection>
+  </scm>
+  
   <properties>
   	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   	<slf4jVersion>1.7.7</slf4jVersion>
