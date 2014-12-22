@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.sibilantsolutions.utils</groupId>
   <artifactId>utils</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
     <packaging>jar</packaging>
 
   <name>Utils</name>
@@ -29,6 +29,7 @@
     <url>scm:git:git@github.com:jtgeiger/utils.git</url>
     <connection>scm:git:git@github.com:jtgeiger/utils.git</connection>
     <developerConnection>scm:git:git@github.com:jtgeiger/utils.git</developerConnection>
+    <tag>utils-0.0.1</tag>
   </scm>
   
   <properties>
